@@ -1,0 +1,33 @@
+
+.penguine-nav-logo {
+    max-width: 192px;
+}
+
+.hero-section .carousel-item h1 {
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 60px;
+}
+
+.section-title {
+    font-size: 2.3rem;
+    text-align: center;
+    font-weight: 500;
+}
+
+.product-card .card-title {
+    font-size: 1.5rem;
+}
+
+.feature-section .card {
+    text-align: center;
+    padding: 20px;
+}
+
+.feature-section > div {
+    flex-direction: column-reverse !important;
+}
+
+.feature-section-banner {
+    margin-bottom: 50px;
+}

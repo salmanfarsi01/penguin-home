@@ -1,0 +1,110 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.hero-section {
+    background-color: #FFFBF0;
+    padding: 30px 0 130px 0;
+
+}
+
+
+.hero-section nav ul li a {
+    font-weight: 500;
+}
+
+
+
+.hero-section .carousel-item h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 600;
+    font-size: 5rem;
+    color: #FABE4C;
+    line-height: 80px;
+}
+
+.hero-section .carousel-item h1 span {
+    color: #363958;
+}
+
+
+.penguine-buy-btn {
+    background-image: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 35px;
+}
+
+
+.penguine-buy-btn:hover {
+    background-image: linear-gradient(240deg, #A4BC46 0%, #85A019 100%);
+    color: white;
+}
+
+.section-title {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 3rem;
+    margin: 50px 0;
+}
+
+
+.product-section img {
+    width: 210px;
+}
+
+.penguine-product-image {
+    background-color: #F1F1F1;
+    padding: 20px;
+}
+
+
+.rounded-20 {
+    border-radius: 20px;
+}
+
+.product-card .card-title {
+    font-weight: bold;
+    font-size: 1.8rem;
+    line-height: 1.8rem;
+    color: #363958;
+}
+
+.product-card .card-text {
+    color: #3E3E3E;
+    line-height: 1.8rem;
+}
+
+.product-card .card-footer {
+    padding-bottom: 1.5rem;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.product-card .card-footer h4 {
+    font-weight: 900;
+    color: #FABE4C;
+    font-size: 2.25rem;
+}
+
+.feature-section .card img {
+    height: 80px;
+}
+
+.footer h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 80px;
+}
+
+.footer-section {
+    background-color: #32373C;
+}
+
+.footer-bottom {
+    background-color: #141520;
+}
